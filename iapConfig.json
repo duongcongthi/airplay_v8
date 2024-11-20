@@ -1,3 +1,4 @@
 {
-  "threeDayFree": false
+  "threeDayFree": false,
+  "hiddenLifetime": false
 }
